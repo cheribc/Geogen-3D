@@ -1,0 +1,7 @@
+{
+  "name": "GeoGen 3D - Live",
+  "description": "A shareable, futuristic map interface that uses Gemini Maps Grounding to find real-world locations and generates customized 3D isometric aerial visualizations. Includes deep-linking for social sharing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
